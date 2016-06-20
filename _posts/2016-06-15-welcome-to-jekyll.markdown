@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-06-15 13:15:08 -0700
-categories: jekyll update
+title:  "What is this all about?"
+date:   2016-06-20
+category: meta
 ---
 
 Test this motherfucker out!
